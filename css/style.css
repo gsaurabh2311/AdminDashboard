@@ -1,0 +1,31 @@
+body {
+    background-color: White;
+    font-family: 'Prompt', sans-serif;
+}
+.nav-sidebar {
+    margin: 5px -20px 20px 20px;
+    /* text-align: center; */
+    background-color: white;
+
+}
+.nav-sidebar > li > a {
+    padding: 20px 20px;
+    float: left;
+}
+.main {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #FEFBF3;
+}
+.placeholders {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.placeholder {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.placeholder > img {
+    display: inline;
+    border-radius: 50%;
+}
